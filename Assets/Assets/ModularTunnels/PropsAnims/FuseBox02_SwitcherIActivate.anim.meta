@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: afcf37f0fc4d1f14c8b8cf8929f51648
+timeCreated: 1538990644
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/FuseBox02_SwitcherIActivate.anim
+  uploadId: 273262

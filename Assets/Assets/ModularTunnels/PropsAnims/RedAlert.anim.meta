@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 94254a64259290946aaf13bece89341f
+timeCreated: 1534522979
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/RedAlert.anim
+  uploadId: 273262

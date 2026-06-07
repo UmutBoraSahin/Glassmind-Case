@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 976f57a9d67afe146a5cbb0e0c37c865
+timeCreated: 1536237623
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/BarrelANDboxes.mat
+  uploadId: 273262

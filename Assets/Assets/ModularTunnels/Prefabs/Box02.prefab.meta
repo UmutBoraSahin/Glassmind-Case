@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf67c8e5eca64f448804348744be440e
+timeCreated: 1537355142
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Box02.prefab
+  uploadId: 273262

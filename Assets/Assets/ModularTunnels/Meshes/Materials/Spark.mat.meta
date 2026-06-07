@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9658ef397da811840b17b270ea780db3
+timeCreated: 1537896031
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/Spark.mat
+  uploadId: 273262

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1b827057825643547be6cc3974c32bd3
+timeCreated: 1538819440
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Puddle.prefab
+  uploadId: 273262

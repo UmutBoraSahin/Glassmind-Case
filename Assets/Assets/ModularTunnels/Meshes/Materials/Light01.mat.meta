@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4cddca765a04474fb9db43f3307af2e
+timeCreated: 1533312242
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/Light01.mat
+  uploadId: 273262

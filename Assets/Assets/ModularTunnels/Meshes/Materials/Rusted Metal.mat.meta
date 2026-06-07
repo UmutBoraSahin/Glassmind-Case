@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b6e27664d1081848a7717e57b007279
+timeCreated: 1533832594
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/Rusted Metal.mat
+  uploadId: 273262

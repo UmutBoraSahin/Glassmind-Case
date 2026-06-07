@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 21ae82b48cbefd6429c663d54f4465f9
+timeCreated: 1537357669
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/FuseBox04.prefab
+  uploadId: 273262

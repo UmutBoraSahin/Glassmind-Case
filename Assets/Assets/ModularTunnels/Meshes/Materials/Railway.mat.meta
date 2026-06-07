@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 66482e378ecef8447882f04a02ff5411
+timeCreated: 1533836528
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/Railway.mat
+  uploadId: 273262

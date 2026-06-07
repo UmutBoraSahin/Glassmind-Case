@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eabc7a64562d2cb46adf03c994dd7afd
+timeCreated: 1537351690
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Tun01_Cross.prefab
+  uploadId: 273262

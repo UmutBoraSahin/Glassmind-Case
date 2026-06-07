@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 75f2bfc64a9780d47a2542ac2a33f70f
+timeCreated: 1537425519
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Plank03.prefab
+  uploadId: 273262

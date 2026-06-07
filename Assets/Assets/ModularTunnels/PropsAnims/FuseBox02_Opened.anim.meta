@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ec7b98f3c97124428bd0889652718ca
+timeCreated: 1538991153
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/FuseBox02_Opened.anim
+  uploadId: 273262

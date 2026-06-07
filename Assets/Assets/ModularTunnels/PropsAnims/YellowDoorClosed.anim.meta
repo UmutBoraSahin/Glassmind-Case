@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7d40671b5f83939459aabe9d122268d7
+timeCreated: 1537547959
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/YellowDoorClosed.anim
+  uploadId: 273262

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba48ab34f78480245b8966fbd4aa070d
+timeCreated: 1537425677
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Ruin05.prefab
+  uploadId: 273262

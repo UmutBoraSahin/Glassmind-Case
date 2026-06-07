@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d501150b28c13e9498e84879a7f92a91
+timeCreated: 1537355830
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Chair.prefab
+  uploadId: 273262

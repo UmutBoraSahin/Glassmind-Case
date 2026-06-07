@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: da5a29c6470d77e4fafed2d5370754a6
+timeCreated: 1537621329
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/Door02.controller
+  uploadId: 273262

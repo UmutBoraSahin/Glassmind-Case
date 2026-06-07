@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e26d9ac93e8d43a4ebb9dd879c81849d
+timeCreated: 1537354072
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Prefabs/Barrel01.prefab
+  uploadId: 273262

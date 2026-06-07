@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e83e6bea91b092e44bbe04f4e03cbcc5
+timeCreated: 1535802617
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/WoodPlanks.mat
+  uploadId: 273262

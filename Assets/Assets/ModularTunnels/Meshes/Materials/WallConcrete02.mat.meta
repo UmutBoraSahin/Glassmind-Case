@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 07c711978993a70408a54b0d948db8c0
+timeCreated: 1535037500
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/WallConcrete02.mat
+  uploadId: 273262

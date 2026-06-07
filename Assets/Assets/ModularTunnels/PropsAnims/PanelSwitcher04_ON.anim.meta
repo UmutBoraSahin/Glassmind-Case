@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be42b36540f77ca4985c12475ab8e12f
+timeCreated: 1538982781
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/PropsAnims/PanelSwitcher04_ON.anim
+  uploadId: 273262

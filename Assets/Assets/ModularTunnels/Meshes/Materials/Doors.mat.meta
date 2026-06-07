@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 381d36703efdb4046bb0f691a9945b67
+timeCreated: 1536338639
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/Doors.mat
+  uploadId: 273262

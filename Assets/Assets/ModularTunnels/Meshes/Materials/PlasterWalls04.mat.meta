@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e498289d7bf8ebf47abc825f84806be3
+timeCreated: 1538732655
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130591
+  packageName: Modular Metro Tunnels
+  packageVersion: 1.0
+  assetPath: Assets/Modular Tunels/Meshes/Materials/PlasterWalls04.mat
+  uploadId: 273262
